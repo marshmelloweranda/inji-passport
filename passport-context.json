@@ -9,7 +9,6 @@
     },
     "sub_id": "schema:identifier",
     "application_number": "schema:identifier", 
-    "face": "schema:Text",
     "nic_number": "schema:identifier",
     "full_name": "schema:name",
     "birth_date": "schema:birthDate",
