@@ -9,6 +9,7 @@
     },
     "sub_id": "schema:identifier",
     "application_number": "schema:identifier", 
+    "face": "schema:Text",
     "service_type": "schema:serviceType",
     "nic_number": "schema:identifier",
     "full_name": "schema:name",
