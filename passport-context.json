@@ -5,10 +5,11 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "DrivingLicenseCredential": {
-      "@id": "https://marshmelloweranda.github.io/inji-passport/passport-context.json#DrivingLicenseCredential"
+      "@id": "https://marshmelloweranda.github.io/inji-passport/passport-context.json#PassportApplicationCredential"
     },
     "sub_id": "schema:identifier",
     "application_number": "schema:identifier", 
+    "service_type": "schema:serviceType",
     "nic_number": "schema:identifier",
     "full_name": "schema:name",
     "birth_date": "schema:birthDate",
