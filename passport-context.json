@@ -4,7 +4,7 @@
     "@protected": true,
     "type": "@type",
     "schema": "https://schema.org/",
-    "PassportApplicationCredential": {
+    "DrivingLicenseCredential": {
       "@id": "https://marshmelloweranda.github.io/inji-passport/passport-context.json#DrivingLicenseCredential"
     },
     "sub_id": "schema:identifier",
