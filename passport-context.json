@@ -10,7 +10,6 @@
     "application_id": "schema:identifier", 
     "full_name": "schema:serviceType",
     "email": "schema:identifier",
-    "full_name": "schema:name",
     "phone": "schema:birthDate",
     "date_of_birth": "schema:gender",
     "issued_date": "schema:telephone",
