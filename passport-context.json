@@ -7,16 +7,14 @@
     "DrivingLicenseCredential": {
       "@id": "https://marshmelloweranda.github.io/inji-passport/passport-context.json#DrivingLicenseCredential"
     },
-    "sub_id": "schema:identifier",
-    "application_number": "schema:identifier", 
-    "service_type": "schema:serviceType",
-    "nic_number": "schema:identifier",
+    "application_id": "schema:identifier", 
+    "full_name": "schema:serviceType",
+    "email": "schema:identifier",
     "full_name": "schema:name",
-    "birth_date": "schema:birthDate",
-    "gender": "schema:gender",
-    "mobile_number": "schema:telephone",
-    "email_address": "schema:email",
-    "district": "schema:addressRegion",
+    "phone": "schema:birthDate",
+    "date_of_birth": "schema:gender",
+    "issued_date": "schema:telephone",
+    "is_fit_to_drive": "schema:email",
     "status": "schema:Text"
   }
 }
